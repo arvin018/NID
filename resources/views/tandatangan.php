@@ -9,9 +9,9 @@
     <link type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/south-street/jquery-ui.css" rel="stylesheet">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 
-    <script type="text/javascript" src="js/jquery.signature.min.js"></script>
-    <script type="text/javascript" src="js/jquery.ui.touch-punch.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/jquery.signature.css">
+    <script type="text/javascript" href="../js/jquery.signature.js"></script>
+    <script type="text/javascript" href="../js/jquery.ui.touch-punch.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/jquery.signature.css">
 
     <style>
         .kbw-signature {
